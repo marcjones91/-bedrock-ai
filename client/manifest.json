@@ -1,0 +1,33 @@
+//======================================================
+//===== Created by Marc Jones (Twitter: @_marcjones) ============
+//===== All rights reserved. ==================================
+//===== You can view the code. ===============================
+//===== Use of any code is prohibited. ==========================
+//======================================================
+{
+    "format_version": 1,
+    "header": {
+        "description": "Explore the vast expanses of the world of cubes! Creator: Marc Jones (Twitter: @_marcjones_), v1.1.2 alpha build 1",
+        "name": "Bedrock AI Add-On",
+		 "uuid": "63f2b267-9fc0-40f9-85a6-cc9aba195387",
+        "version": [ 1, 1, 1 ],
+        "min_engine_version": [1, 12, 0],  //com.mojang.minecraftpe
+        "pack_scope": "world"
+    },  //com.mojang.minecrafttrialpe
+    "modules": [
+        {
+            "description": "Explore the vast expanses of the world of cubes! Creator: Marc Jones (Twitter: @_marcjones_), v1.1.2 alpha build 1",
+            "type": "resources",
+		     "uuid": "05cdfe45-3460-4cda-b112-fc64d6b66317",
+            "version": [ 1, 1, 1 ]  //com.mojang.minecraftpe
+        } //com.mojang.minecrafttrialpe
+    ],
+    "dependencies": [
+    {
+
+      "uuid": "ea015f38-7500-4b77-84d8-9ce6826eceb7",
+      "version": [ 1, 1, 1 ] //com.mojang.minecraftpe
+        } //com.mojang.mineceafttrialpe
+
+  ]
+}
